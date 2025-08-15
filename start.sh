@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CONTAINER_NAME=tg-bot-template  # bot 容器名称
+CONTAINER_NAME=media-group-bot
 
 # 构建镜像
 build_image() {

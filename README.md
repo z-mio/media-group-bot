@@ -1,6 +1,6 @@
-# Tg Bot Template
+# Tg 消息合并助手
 
-描述
+**实例:** [@M2MGBot](https://t.me/M2MGBot)
 
 ## 环境变量
 
